@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProvaDeConhecimento</string>
+    <string name="boasVindas">Bem vindo (a)!</string>
+    <string name="SelecioneUmaOpcao">Selecione uma opção:</string>
+    <string name="ConsultarOficinas">" Oficinas"</string>
+    <string name="IndiqueAmigo">Indique Amigo</string>
+    <string name="codAssociacao">Código da Associação</string>
+    <string name="CPFdoAssociado">CPF do Associado</string>
+    <string name="EmailAssociado">E-mail do Associado</string>
+    <string name="NomeAssociado">Nome do Associado</string>
+    <string name="TelefoneAssociado">Telefone do Associado</string>
+    <string name="EnviarIndicacao">Enviar Indicação</string>
+
+    // url de conexao.
+    <string name="urlConexao">http://app.hinovamobile.com.br/ProvaConhecimentoWebApi/ProvaConhecimento.html</string>
+</resources>
